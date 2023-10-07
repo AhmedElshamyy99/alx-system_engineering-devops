@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 y y 4096 Oct  7 13:31 .
+drwxr-xr-x 6 y y 4096 Oct  2 23:44 ..
+-rwxr--r-- 1 y y   32 Oct  2 23:44 0-hello_world
+-rwxr--r-- 1 y y   28 Oct  7 12:06 1-confused_smiley
+-rwxr--r-- 1 y y   28 Oct  7 12:19 2-hellofile
+-rwxr--r-- 1 y y   36 Oct  7 12:24 3-twofiles
+-rwxr--r-- 1 y y   35 Oct  7 12:27 4-lastlines
+-rwxr--r-- 1 y y   35 Oct  7 12:28 5-firstlines
+-rwxr--r-- 1 y y   46 Oct  7 12:32 6-third_line
+-rwxr--r-- 1 y y  100 Oct  7 13:19 7-file
+-rwxr--r-- 1 y y   36 Oct  7 13:30 8-cwd_state
+-rw-r--r-- 1 y y   26 Oct  2 23:30 README.md
+-rw-r--r-- 1 y y   39 Oct  7 12:54 \*\'Best
+-rw-r--r-- 1 y y    0 Oct  7 13:31 ls_cwd_content
